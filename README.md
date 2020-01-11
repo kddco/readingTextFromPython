@@ -1,0 +1,2 @@
+# readingTextFromPython
+將python語音轉文字的結果檔案透過java讀檔
